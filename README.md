@@ -1,2 +1,1 @@
-# tugasquery
-tugas query-tf-idf
+# stbi
